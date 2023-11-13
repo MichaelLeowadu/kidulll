@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KidULL</string>
+    <string name="app_title">Schedule App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="schedule_list">Schedule List</string>
+    <string name="menu_favorites">Favorite Schedule</string>
+    <string name="tom_title">Tom</string>
+    <string name="tom_desc">Tom is a 7-year-old boy with striking yellow eyes.
+        He has a blonde hair and is known for his hobby of chasing Jerry, his
+        mischievous brother. His favorite drink is milk, and he can't resist a delicious plate of cookies.</string>
+    <string name="jerry_title">Jerry</string>
+    <string name="jerry_desc">Jerry is a 5-year-old boy with bright black eyes. He has
+        brunette hair. His favorite pastime is outsmarting Tom in various comical
+        ways. When it comes to refreshments, he prefers a sip of water and indulges in mouthwatering cheese.</string>
+    <string name="spike_title">Spike</string>
+    <string name="spike_desc">Spike is a light brown boy with brown eyes. He is 9 years old and
+        has a brown hair. His favorite pastime is sleeping, and he enjoys bone broth and bones
+        as his favorite food.</string>
+    <string name="child_list">Child List</string>
+    <string name="child_favorites">My Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to Kidull</string>
+</resources>
